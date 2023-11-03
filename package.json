@@ -1,0 +1,28 @@
+{
+  "name": "node-password-generator",
+  "version": "1.0.0",
+  "description": "generates secure passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aistiak/node-password-generator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "password-generator",
+    "security"
+  ],
+  "author": "Arif Istiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aistiak/node-password-generator/issues"
+  },
+  "homepage": "https://github.com/aistiak/node-password-generator#readme",
+
+  "bin": {
+    "node-password-generator": "./bin/index.js"
+  }
+}
