@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import passGen from "..";
+const passGen = require("../index")
 
-passGen()
+console.log(passGen())

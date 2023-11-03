@@ -1,6 +1,6 @@
 {
-  "name": "@aistiak/node-password-generator",
-  "version": "1.0.0",
+  "name": "aistiak-node-password-generator",
+  "version": "1.0.3",
   "description": "generates secure passwords",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "homepage": "https://github.com/aistiak/node-password-generator#readme",
 
   "bin": {
-    "@aistiak/node-password-generator": "./bin/index.js"
+    "aistiak-node-password-generator": "./bin/index.js"
   }
 }

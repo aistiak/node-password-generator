@@ -38,4 +38,4 @@ function passGen(params) {
 }
 
 
-export default passGen;
+module.exports = passGen;
